@@ -4,6 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/rafae/AndroidStudioProjects/Simulator/app/src/main/res/layout/activity_main.xml" value="0.3605072463768116" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.117" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/drawable/ic_baseline_sports_soccer_24.xml" value="0.238" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.117" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.109" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/layout/match_item.xml" value="0.5" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.117" />
+        <entry key="..\:/Users/rafae/AndroidStudioProjects/matches-simulator-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.117" />
       </map>
     </option>
   </component>
@@ -12,5 +21,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
   </component>
 </project>
