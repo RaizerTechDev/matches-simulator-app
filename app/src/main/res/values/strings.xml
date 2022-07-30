@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Simulator</string>
+
+    <string name="txt_Simulate">Match Simulation Button.</string>
+    <string name="imagem_do_time_mandante">Home Team </string>
+    <string name="time_visitante">Away Team</string>
+
+    <string name="txt_versus" translatable="false">X</string>
+    <string name="home_team">Home Team</string>
+
+
 </resources>

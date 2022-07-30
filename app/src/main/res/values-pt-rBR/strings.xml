@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulador</string>
+
+    <string name="txt_Simulate">Botão de Simulação de Partidas.</string>
+    <string name="imagem_do_time_mandante">Imagem do time Mandante</string>
+    <string name="time_visitante">Time_visitante</string>
+
+    <string name="txt_versus" translatable="false">X</string>
+    <string name="home_team">Time Mandante</string>
+
+
+</resources>
