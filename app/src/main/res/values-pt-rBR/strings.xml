@@ -8,6 +8,7 @@
 
     <string name="txt_versus" translatable="false">X</string>
     <string name="home_team">Time Mandante</string>
+    <string name="error_api">erro inesperado</string>
 
 
 </resources>

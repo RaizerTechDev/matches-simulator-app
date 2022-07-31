@@ -7,6 +7,7 @@
 
     <string name="txt_versus" translatable="false">X</string>
     <string name="home_team">Home Team</string>
+    <string name="error_api">error</string>
 
 
 </resources>
