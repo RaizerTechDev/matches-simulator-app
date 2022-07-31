@@ -9,7 +9,7 @@
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/RAFARZ76/matches-simulator-app/tree/release/componentes_layouts-ui/ux_em_apps_android)
     
 1. Java e Kotlin Juntos!? Construindo Apps Android
-    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/digitalinnovationone/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+    - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/RAFARZ76/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
     
 1. Explorando o Firebase Para Apps Android Resilientes
     - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/digitalinnovationone/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
