@@ -6,3 +6,7 @@
 
 1. Desenvolvimento Mobile Nativo Para Android
     - [release/desenvolvimento-mobile-nativo-para-android](https://github.com/RAFARZ76/matches-simulator-app/tree/release/desenvolvimento-mobile-nativo-para-android)
+
+▶ 😀👀Bora lá....
+
+Gostou, então já deixa a🌟
