@@ -9,16 +9,5 @@ import retrofit2.http.GET;
 public interface MatchesApi {
 
     @GET("matches.json")
-    static
-        //para acessar o json do pages github
-    Call<List<Match>> getMatches() {
-        return null;
-    }
+    Call<List<Match>> getMatches();
 }
-
-
-
-
-
-
-

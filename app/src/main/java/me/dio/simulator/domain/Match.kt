@@ -1,5 +1,4 @@
-package me.dio.simulator.domain;
-
+package me.dio.simulator.domain
 
 import android.os.Parcelable
 import com.google.gson.annotations.SerializedName

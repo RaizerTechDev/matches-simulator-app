@@ -1,14 +1,10 @@
-// Criando activity usando o biding nas linhas 11, 18, 19 e 21 e comenta a linha 16
 package me.dio.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
-
-
 import me.dio.simulator.databinding.ActivityDetailBinding
 import me.dio.simulator.domain.Match
-
 
 class DetailActivity : AppCompatActivity() {
 
@@ -17,7 +13,6 @@ class DetailActivity : AppCompatActivity() {
     }
 
     private lateinit var binding: ActivityDetailBinding
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -50,12 +45,7 @@ class DetailActivity : AppCompatActivity() {
             binding.rbAwayTeamStars.rating = it.awayTeam.stars.toFloat()
             if (it.awayTeam.score != null) {
                 binding.tvAwayTeamScore.text = it.awayTeam.score.toString()
-
             }
         }
     }
-
 }
-
-
-
