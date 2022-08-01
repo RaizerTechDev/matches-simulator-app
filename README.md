@@ -17,6 +17,8 @@
 
 5. No GitHub foi criado um novo Repositório (https://github.com/RAFARZ76/matches-simulator-api) com uma API REST que simula uma Partida, em linguagem Json e foi implantado um Deploy. 
 
+6. O Projeto foi criado com as linguagens Java e Kotlin
+
 ▶ 😀👀Bora lá....
 
 Gostou, então já deixa a🌟
