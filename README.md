@@ -1,4 +1,4 @@
-##Olá 👋;
+## Olá 👋;
 
 ## App Simulador de Partidas, usando a ferramenta IDE Android Studio.
 
